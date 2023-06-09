@@ -1,3 +1,9 @@
+[Live Session playlist Jan 23](https://www.youtube.com/watch?v=jSqFjlQt_m0&list=PL6q2k4LSc0C9qcFL1tZ0OOk346utu802y&pp=iAQB)
+
+### Big Shoutout to Karthik (Intstructor of MLT). You will know when you start watching his lecture
+
+## Important:  Complete all live session by karthik
+
 Try IITM video Lectures after watching respective week in this list.<br>
 You will get better idea of Lectures
 Must Search Youtube Channels
@@ -6,6 +12,23 @@ Must Search Youtube Channels
 3. codeEmporium
 4. Udacity Georgia Tech - Machine Learning
 5. ritvikmath
+
+## Week 1
+
+Live session by karthik
+
+[The Kernel Trick - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=wBVSbVktLIY&list=PLNeUaaanNc9QaGqVTs4bFoys5nt-T-3FF)
+
+[Gradient Desent](https://www.youtube.com/watch?v=EfsjEOb596Q)
+
+## Week 2
+[Understanding K means++](https://youtu.be/T189uouxuW4?list=PL6q2k4LSc0C9qcFL1tZ0OOk346utu802y&t=3423)
+
+## Week 4
+- Went through Lecture twice
+- went through live session(it was good, very illustrated)
+1. [Em playlist](https://www.youtube.com/watch?v=XLKoTqGao7U&list=PLBv09BD7ez_7beI0_fuE96lSbsr_8K8YD&index=6)
+2. [postrior probility actual mean](https://youtu.be/XLKoTqGao7U?list=PLBv09BD7ez_7beI0_fuE96lSbsr_8K8YD&t=61)
 ## Week 7
 
 ### KNN
@@ -43,8 +66,9 @@ The relation is exponential between them,Exponential is not good in ML.
 [Karthik Sir Logistic regression](https://www.youtube.com/watch?v=slEiNsa-v5A)
 
 [Linear regression](https://www.youtube.com/watch?v=wYPUhge9w5c)
+[Linear Regression and Multiple Regression](https://www.youtube.com/watch?v=K_EH2abOp00)
 
-## Week 9
+
 [Perceptron and Logistics](https://www.youtube.com/watch?v=jbluHIgBmBo)
 
 ## Week 10
@@ -52,5 +76,10 @@ The relation is exponential between them,Exponential is not good in ML.
 [SVM](https://www.youtube.com/watch?v=Lpr__X8zuE8)
 
 ## Week 11
-[Rabdom forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+[Random forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
 [Adaboost](https://www.youtube.com/watch?v=LsK-xG1cLYA)
+
+Here are two excellent resources for those interested in some of the finer details of AdaBoost.
+
+[A tutorial introduction to adaptive boosting](http://www.inf.fu-berlin.de/inst/ag-ki/adaboost4.pdf)<br>
+[The training error theorem for boosting](https://www.cs.princeton.edu/courses/archive/fall08/cos402/readings/boosting.pdf)
